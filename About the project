@@ -1,0 +1,8 @@
+In the last project, we learned data wrangling and visualization skills while examining the real estate market in Mexico. In this project, we'll build on those skills and move from descriptive to predictive data science. Our focus is still real estate, but now we need to create a machine learning model that predicts apartment prices in Buenos Aires, Argentina.
+
+Some of the things we'll learn in this project are:
+
+1.How to create a linear regression model using the scikit-learn library.
+2.How to build a data pipeline for imputing missing values and encoding categorical features.
+3.How to improve model performance by reducing overfitting.
+4.How to create a dynamic dashboard for interacting with your completed model.
